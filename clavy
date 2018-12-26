@@ -1,0 +1,114 @@
+echo "# clavier" >> README.md 
+git init 
+git ajouter README.md 
+git commit -m "premier commit" 
+git distant ajouter origine https://github.com/AlcideN/clavier.git
+ git push -u origine master
+<tr> 
+<td><input type="button" class="bt" title="khof" onclick="alpha('&#1499;')" value="&#1499;"></td>
+<td><input type="button" class="bt" title="kof" onclick="alpha('&#64315;')" value="&#64315;"></td>
+<td><input type="button" class="bt" title="" onclick="alpha('&#64287;')" value="&#64287;"></td>
+<td><input type="button" class="bt" title="" onclick="alpha('&#1522;')" value="&#1522;"></td>
+<td><input type="button" class="bt" title="yud" onclick="alpha('&#1497;')" value="&#1497;"></td>
+<td><input type="button" class="bt" title="tes" onclick="alpha('&#1496;')" value="&#1496;"></td>
+<td><input type="button" class="bt" title="khes" onclick="alpha('&#1495;')" value="&#1495;"></td>
+<td><input type="button" class="bt" title="zayen" onclick="alpha('&#1494;')" value="&#1494;"></td>
+<td><input type="button" class="bt" title="" onclick="alpha('&#1521;')" value="&#1521;"></td>
+<td><input type="button" class="bt" title="" onclick="alpha('&#1520;')" value="&#1520;"></td>
+<td><input type="button" class="bt" title="vov" onclick="alpha('&#1493;')" value="&#1493;"></td>
+<td><input type="button" class="bt" title="hey" onclick="alpha('&#1492;')" value="&#1492;"></td>
+<td><input type="button" class="bt" title="daled" onclick="alpha('&#1491;')" value="&#1491;"></td>
+<td><input type="button" class="bt" title="giml" onclick="alpha('&#1490;')" value="&#1490;"></td>
+<td><input type="button" class="bt" title="veyz" onclick="alpha('&#64332;')" value="&#64332;"></td>
+<td><input type="button" class="bt" title="beyz" onclick="alpha('&#1489;')" value="&#1489;"  ></td>
+<td><input type="button" class="bt" title="komets alef" onclick="alpha('&#64303;')" value="&#64303;"></td>
+<td><input type="button" class="bt" title="pasekh alef" onclick="alpha('&#64302;')" value="&#64302;"></td>
+</tr>
+<tr> 
+<td><input type="button" class="bt" onclick="alpha('&#1498;')" value="&#1498;"></td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td><input type="button" class="bt" title="yôd" onclick="alpha('&#64285;')" value="&#64285;"></td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td><input type="button" class="bt" onclick="alpha('&#64331;')" value="&#64331;"></td>
+<td><input type="button" class="bt" title="melupm vov" onclick="alpha('&#64309;')" value="&#64309;"></td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td><input type="button" class="bt" title="bêt" onclick="alpha('&#64305;')" value="&#64305;"></td>
+<td>&nbsp;</td>
+<td><input type="button" class="bt" title="alef" onclick="alpha('&#1488;')" value="&#1488;"></td>
+</tr>
+</table> <table class="tab-kb">
+<tr class="spgrey"> 
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>ç</td>
+<td>c</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>w</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr> 
+<td>S</td>
+<td>T</td>
+<td>s</td>
+<td>sh</td>
+<td>r</td>
+<td>k</td>
+<td>ts</td>
+<td>f</td>
+<td>p</td>
+<td>e</td>
+<td>s</td>
+<td>n</td>
+<td>m</td>
+<td>l</td>
+</tr>
+<tr> 
+<td><input type="button" class="bt" title="sof" onclick="alpha('&#1514;')" value="&#1514;"></td>
+<td><input type="button" class="bt" title="tof" onclick="alpha('&#64330;')" value="&#64330;"></td>
+<td><input type="button" class="bt" title="sin" onclick="alpha('&#64299;')" value="&#64299;"></td>
+<td><input type="button" class="bt" title="shin" onclick="alpha('&#1513;')" value="&#1513;"></td>
+<td><input type="button" class="bt" title="reysh" onclick="alpha('&#1512;')" value="&#1512;"></td>
+<td><input type="button" class="bt" title="kuf" onclick="alpha('&#1511;')" value="&#1511;"></td>
+<td><input type="button" class="bt" title="tsadek" onclick="alpha('&#1510;')" value="&#1510;"></td>
+<td><input type="button" class="bt" title="fey" onclick="alpha('&#64334;')" value="&#64334;"></td>
+<td><input type="button" class="bt" title="pey" onclick="alpha('&#64324;')" value="&#64324;"></td>
+<td><input type="button" class="bt" title="ayen" onclick="alpha('&#1506;')" value="&#1506;"></td>
+<td><input type="button" class="bt" title="samekh" onclick="alpha('&#1505;')" value="&#1505;"></td>
+<td><input type="button" class="bt" title="nun" onclick="alpha('&#1504;')" value="&#1504;"></td>
+<td><input type="button" class="bt" title="mum" onclick="alpha('&#1502;')" value="&#1502;"></td>
+<td><input type="button" class="bt" title="lamed" onclick="alpha('&#1500;')" value="&#1500;"></td>
+</tr>
+<tr> 
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td><input type="button" class="bt" onclick="alpha('&#1509;')" value="&#1509;"></td>
+<td><input type="button" class="bt" onclick="alpha('&#1507;')" value="&#1507;"></td>
+<td><input type="button" class="bt" title="fe" onclick="alpha('&#1508;')" value="&#1508;"></td>
+<td>&nbsp;</td>
+<td>&nbsp; </td>
+<td><input type="button" class="bt" onclick="alpha('&#1503;')" value="&#1503;"></td>
+<td><input type="button" class="bt" onclick="alpha('&#1501;')" value="&#1501;"></td>
+<td>&nbsp; </td>
+</tr>
+</table> <!-- br>
+<table class="tab-kb">
+<tr> 
